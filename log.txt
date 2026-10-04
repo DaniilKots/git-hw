@@ -1,0 +1,51 @@
+commit 2fc7bce2775626856280477bd5c62f4ec12a151e
+Merge: ea30157 1bd3215
+Author: Owl <D.Kotsyubenko@yandex.ru>
+Date:   Sun Oct 4 22:38:44 2026 +0300
+
+    Merge branch 'feature-b'
+    
+    # Conflicts:
+    #       README.md
+
+commit 1bd3215f891bc7d3633ef7d10d7593f6e29e7de7
+Author: Owl <D.Kotsyubenko@yandex.ru>
+Date:   Sun Oct 4 22:36:40 2026 +0300
+
+    feature-b: изменил 4-ю строку
+
+commit ea30157642e9ac5f879a78b3b19f094b19f16121
+Author: Owl <D.Kotsyubenko@yandex.ru>
+Date:   Sun Oct 4 22:35:42 2026 +0300
+
+    main: изменил 4-ю строку
+
+commit 184a55d559329a9f091730267ee11eeebb438b55
+Author: Owl <D.Kotsyubenko@yandex.ru>
+Date:   Sun Oct 4 21:45:14 2026 +0300
+
+    feature-b: добавил 3-ю строку
+
+commit 4df56cde104a5dd700e2ccf2f5afbd7dd2bce73a
+Author: Owl <D.Kotsyubenko@yandex.ru>
+Date:   Sun Oct 4 21:45:14 2026 +0300
+
+    feature-a: добавил 4-ю строку
+
+commit c64a9c9a06d22b7a72818bc9b95b3229bd0a5d9d
+Author: Owl <D.Kotsyubenko@yandex.ru>
+Date:   Sun Oct 4 21:42:16 2026 +0300
+
+    feature-a: добавил 3-ю строку
+
+commit 26b0583ace326ae05f9142cb13a5e8db4130bbf6
+Author: Owl <D.Kotsyubenko@yandex.ru>
+Date:   Sun Oct 4 21:32:57 2026 +0300
+
+    Fix
+
+commit b03de21f709745170660cbad86a4b48cabf449ae
+Author: Owl <D.Kotsyubenko@yandex.ru>
+Date:   Sun Oct 4 21:02:55 2026 +0300
+
+    Initial commit
